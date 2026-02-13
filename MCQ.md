@@ -42,15 +42,8 @@ print(f())
 print(f())
 ```
 
-## Q5. Guess the output
 
-A. Error    
-B. None    
-C. 10    
-D. None of the above
-
-
-## Q6 Which mode creates file but fails if file exists?
+## Which mode creates file but fails if file exists?
 A. w   
 B. a   
 C. x   
